@@ -1,0 +1,3 @@
+# KMPJavaCompiler
+
+KMPJavaCompiler (Kumar-Malik-Pandey Java Compiler) is a simple Java compiler that works only on a basic subset of the comprehensive Java syntax (please refer to its grammar file for full details). The compiler is completely written in Python3 and uses ANTLER for parsing the Java source code. Please refer to the repository https://github.com/abhyuday07/KMPJavaCompiler for the full source code.
